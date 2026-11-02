@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Siderail</title>
+        <item>
+            <title>0.4.0</title>
+            <pubDate>Tue, 03 Nov 2026 05:12:30 +0530</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://couldbekush.github.io/siderail-updates/updates/Siderail-0.4.0.html</sparkle:releaseNotesLink>
+            <enclosure url="https://couldbekush.github.io/siderail-updates/updates/Siderail-0.4.0.zip" length="1891899" type="application/octet-stream" sparkle:edSignature="6P6nIW3nID406nKCFyUAUJeQ3SxrQsCo/WEhrZXsQF+ZQge1//gN8lloUPUU8u2FSyzglannG9C8Z+6zreVBCA=="/>
+        </item>
+    </channel>
+</rss>
