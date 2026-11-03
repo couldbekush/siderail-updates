@@ -3,6 +3,18 @@
     <channel>
         <title>Siderail</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Wed, 04 Nov 2026 03:09:54 +0530</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://couldbekush.github.io/siderail-updates/updates/Siderail-0.4.1.html</sparkle:releaseNotesLink>
+            <enclosure url="https://couldbekush.github.io/siderail-updates/updates/Siderail-0.4.1.zip" length="1911097" type="application/octet-stream" sparkle:edSignature="k34YQvH0FPTSSKifIRFNgO+kAcLCVIzDl/49GP9zCv4C6HSodb+VQdL7121I2TN2sD2uv3MSn8uV0use2qQxDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://couldbekush.github.io/siderail-updates/updates/Siderail8-7.delta" sparkle:deltaFrom="7" length="170686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RX5RA2ZIu8K2pEsBiMe8y3rBpLeZPln7qK74KZByyb55ljxNnHZ1PJgIeKl72mMGMThHof3lGjw7Nem61XCQBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Tue, 03 Nov 2026 05:12:30 +0530</pubDate>
             <sparkle:version>7</sparkle:version>
